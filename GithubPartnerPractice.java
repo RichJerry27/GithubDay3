@@ -3,5 +3,6 @@ public class GithubPartnerPractice{
 
 	System.out.println("Richard and Gouthum");
 	System.out.println("Goutham");
+
 }
 }
